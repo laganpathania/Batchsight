@@ -2,7 +2,7 @@
 
 Understand your fed-batch data and catch drift early. BatchSight reads each batch against its own history and against process physics, using multivariate statistics and a mechanistic model on the same dataset.
 
-**Try it live:** [link to the BatchSight page on laganpathania.com]
+**Try it live:** https://laganpathania.com/twin/
 
 ## What is inside
 
